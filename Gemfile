@@ -4,3 +4,4 @@ gemspec
 
 gem "actionpack"
 gem "rake"
+gem "oj"
